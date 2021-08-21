@@ -41,6 +41,16 @@ Resources:
 
 <br/>
 
+### 006 AWS API Gateway and Lambda
+
+    $ cdk deploy
+
+<br/>
+
+![Application](/img/pic-m03-p01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
