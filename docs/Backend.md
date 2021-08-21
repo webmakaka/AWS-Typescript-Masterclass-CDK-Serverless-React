@@ -32,6 +32,15 @@ Resources:
 
 <br/>
 
+### 005 Basic AWS Lambda
+
+    $ npm install @types/node
+    $ cdk bootstrap
+    $ cdk synth
+    $ cdk deploy
+
+<br/>
+
 ---
 
 <br/>
